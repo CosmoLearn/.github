@@ -14,7 +14,7 @@ If you have a project related to Python, machine learning, and astronomy, you ar
 
 ## Explore Projects
 
-To explore the projects hosted within the Cosmo Learn organization, please visit the [GitHub organization page](https://github.com/CosmoLearn). You will find a collection of repositories showcasing various applications of Python and machine learning in astronomy.
+To explore the projects hosted within the Cosmo Learn organization, please visit the [GitHub organization repositories page](https://github.com/orgs/CosmoLearn/repositories). You will find a collection of repositories showcasing various applications of Python and machine learning in astronomy.
 
 ## Contact
 
