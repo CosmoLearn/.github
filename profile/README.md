@@ -1,3 +1,5 @@
+![Solar System](https://github.com/CosmoLearn/.github/blob/main/banner.jpg?raw=true)
+
 # Cosmo Learn
 
 Cosmo Learn is a GitHub organization hosting projects that focus on the intersection of Python, machine learning, and astronomy.
